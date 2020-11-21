@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 🌱 <b>Learning</b> Image processing, Android App
 
-🎮 Interest Computer Vision , Network Server, Open API
+🎮 <b>Interest</b> Computer Vision , Network Server, Open API
 
 [![jee00609's github stats](https://github-readme-stats.vercel.app/api?username=jee00609)](https://github.com/anuraghazra/github-readme-stats)
