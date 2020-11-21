@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Learning Image processing, Android App
+🌱 <b>Learning</b> Image processing, Android App
 
 🎮 Interest Computer Vision , Network Server, Open API
 
