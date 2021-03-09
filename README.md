@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📝 :memo:
+- 💻 :computer:
+- 😊 :blush:
 -->
 
 🌱 <b>Self-study</b> : Image processing, Android App, Block Chain, Docker
