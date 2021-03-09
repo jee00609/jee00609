@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 <b>Learning</b> : Image processing, Android App, Spring, Software engineering
+🌱 <b>Self-study</b> : Image processing, Android App, Block Chain, Docker
 
-🎮 <b>Interest</b> :  Computer Vision , Network Server, Open API, Arduino, Docker
+🏫 <b>Learning</b> : Spring, Software engineering
+
+🎮 <b>Interest</b> :  Computer Vision , Network Server, Open API, Arduino Project
 
 [![jee00609's github stats](https://github-readme-stats.vercel.app/api?username=jee00609)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jee00609&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
