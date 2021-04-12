@@ -23,11 +23,15 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Integral%2076&fontSize=90)
 
-🌱 <b>Self-study</b> : Image processing, Android App, Block Chain, Docker
+📚 <b>Technology Stack</b> : 
 
-🏫 <b>Learning</b> : Spring, Software engineering
+🌱 <b>Self-study</b> : Image processing, Block Chain, Docker
+
+🏫 <b>Now Learning</b> : Spring, Software engineering, AWS Foundational
 
 🎮 <b>Interest</b> :  Computer Vision , Network Server, Open API, Arduino Project
+
+📞 <b>Contact</b> :[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jee00609.github.io/)](https://jee00609.github.io/)
 
 [![jee00609's github stats](https://github-readme-stats.vercel.app/api?username=jee00609)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jee00609&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
