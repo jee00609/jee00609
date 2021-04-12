@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Integral%2076&fontSize=90)
 
-📚 <b>Technology Stack</b> : [![Python](https://img.shields.io/badge/Python-blue?logo=Python)](https://github.com/topics/python)
+📚 <b>Technology Stack</b> : [![Python](https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white)](https://github.com/topics/python)
 
 🌱 <b>Self-study</b> : Image processing, Block Chain, Docker
 
