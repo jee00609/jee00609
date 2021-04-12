@@ -3,6 +3,8 @@
 <!--
 **jee00609/jee00609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -26,5 +28,3 @@ Here are some ideas to get you started:
 
 [![jee00609's github stats](https://github-readme-stats.vercel.app/api?username=jee00609)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jee00609&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
