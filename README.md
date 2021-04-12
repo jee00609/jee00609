@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 🎮 <b>Interest</b> :  Computer Vision , Network Server, Open API, Arduino Project
 
-📞 <b>Contact</b> : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jee00609.github.io/)](https://jee00609.github.io/)
+📞 <b>Contact</b> : [![Tech Blg Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jee00609.github.io/)](https://jee00609.github.io/)
 
 [![jee00609's github stats](https://github-readme-stats.vercel.app/api?username=jee00609)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jee00609&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
