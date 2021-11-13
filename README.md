@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 🎮 <b>Interest</b> :  Open Source Data , Open API , AWS Rekognition
 
-📝 <b>Certificate</b> : Linux Master(2)
+📝 <b>Certificate</b> : Linux Master(2), TOEIC(720)
 
 📞 <b>Contact</b> : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jee00609.github.io/)](https://jee00609.github.io/), jee0609@naver.com
 
