@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 📚 <b>Technology Stack (Programming Language)</b> : [![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](https://github.com/topics/python) [![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)](https://github.com/topics/java) [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white)](https://github.com/topics/php) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)](https://github.com/topics/javascript) [![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)](https://github.com/topics/c) [![C++](https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white)](https://github.com/topics/cpp) 
 
-🌱 <b>Self-study</b> : MySQL, Android
+🌱 <b>Self-study</b> : DBMS(MySQL, Oracle)
 
 <!-- Block Chain, Docker, [![Solidity](https://img.shields.io/badge/Solidity-363636?logo=Solidity&logoColor=white)](https://github.com/topics/solidity) -->
 
