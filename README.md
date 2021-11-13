@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 🏫 <b>Now Learning</b> : Spring, Software engineering, AWS Foundational
 
-🎮 <b>Interest</b> :  Computer Vision , Open API , AWS Rekognition
+🎮 <b>Interest</b> :  Open Source Data , Open API , AWS Rekognition
 
 📞 <b>Contact</b> : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jee00609.github.io/)](https://jee00609.github.io/), jee0609@naver.com
 
