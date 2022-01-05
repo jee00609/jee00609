@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!-- Block Chain, Docker, [![Solidity](https://img.shields.io/badge/Solidity-363636?logo=Solidity&logoColor=white)](https://github.com/topics/solidity) -->
 
-🏫 <b>Now Learning</b> : Spring, Software engineering, AWS Foundational
+🏫 <b>Now Learning</b> : Spring Frame Work, Software engineering, AWS Foundational
 
 🎮 <b>Interest</b> :  Open Source Data , Open API , AWS Rekognition
 
